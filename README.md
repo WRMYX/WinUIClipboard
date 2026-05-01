@@ -1,18 +1,14 @@
-# LiuYun
+# WinUIClipboard
 
-LiuYun 是一个基于 WinUI 3 的 Windows 剪贴板扩展工具，聚焦“便捷、安全、自由”。
-
-
-
-![LiuYun Demo](Assets/media/LiuYun-demo.gif)
+WinUIClipboard 是一个基于 WinUI 3 的 Windows 剪贴板扩展工具，聚焦“便捷、安全、自由”。
 
 ## 安装
 
-[下载发布版](https://github.com/xiuxiu733/LiuYun/releases) | [提交问题](https://github.com/xiuxiu733/LiuYun/issues) | [开源协议](LICENSE)
+| [提交问题](https://github.com/WRMYX/WinUIClipboard/issues) | [开源协议](LICENSE)
 
 ## 基本使用
 
-1. 在任意应用复制文本或图片，LiuYun 会自动记录到历史列表。
+1. 在任意应用复制文本或图片，WinUIClipboard 会自动记录到历史列表。
 2. 使用全局热键呼出主窗口（默认 `双击CTRL`，可在设置中修改）。
 3. 选中条目后按 `Enter` 或鼠标左键，可一键回填到当前光标位置；也可用 `↑/↓` 快速切换。
 4. 重要内容可置顶或加入“常用”，常用页支持快速复制。
